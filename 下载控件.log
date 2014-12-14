@@ -1,0 +1,13 @@
+行 10: 控件 ProgressBar1 的类 工程1.ProgressBar 不是一个已加载的控件类。
+行 34: 控件 WinHttpDown1 的类 工程1.WinHttpDown 不是一个已加载的控件类。
+行 16: 属性名 _ExtentX 在 ProgressBar1 中是无效的。
+行 17: 属性名 _ExtentY 在 ProgressBar1 中是无效的。
+行 18: 属性名 Value 在 ProgressBar1 中是无效的。
+行 19: 属性名 Theme 在 ProgressBar1 中是无效的。
+行 20: 属性名 TextStyle 在 ProgressBar1 中是无效的。
+行 29: 属性名 TextFont 在 ProgressBar1 中是无效的。
+行 30: 属性名 Text 在 ProgressBar1 中是无效的。
+行 31: 属性名 TextEffectColor 在 ProgressBar1 中是无效的。
+行 32: 属性名 TextEffect 在 ProgressBar1 中是无效的。
+行 37: 属性名 _ExtentX 在 WinHttpDown1 中是无效的。
+行 38: 属性名 _ExtentY 在 WinHttpDown1 中是无效的。
